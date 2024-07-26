@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js,github,git,mysql,postman,react,nodejs,mongodb,vscode,aws,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js,github,git,mysql,postman,react,nodejs,mongodb,vscode,aws,chakraui&perline=5)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-naik-14&theme=dark)
 

@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning React ChakraUI
+- - 📫 How to reach me: nerurkarojaskamlesh@gmail.com
 <!--
 **Ojas-Nerurkar/Ojas-Nerurkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

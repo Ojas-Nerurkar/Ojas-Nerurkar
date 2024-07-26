@@ -16,3 +16,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/Ojas-Nerurkar">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/ojas-nerurkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   
+</div>
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js,github,git,mysql,postman,react,nodejs,mongodb,vscode,aws,&perline=5)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-naik-14&theme=dark)
+
+
+<br>
+
+### Some of my projects are pinned below:
